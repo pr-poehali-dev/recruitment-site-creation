@@ -35,9 +35,7 @@ export default function Index() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-8 animate-fade-in">
               <div className="space-y-4">
-                <div className="inline-block px-4 py-2 bg-blue-100 text-blue-800 rounded-full text-sm font-medium">
-                  Лидер в сфере подбора персонала
-                </div>
+                <div className="inline-block px-4 py-2 bg-blue-100 text-blue-800 rounded-full text-sm font-medium">Стремимся к лидерству в сфере подбора персонала</div>
                 <h1 className="text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
                   Найдем идеального 
                   <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-emerald-600"> сотрудника</span> для вашей команды
