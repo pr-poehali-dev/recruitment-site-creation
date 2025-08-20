@@ -174,7 +174,7 @@ export default function Index() {
           <div className="grid lg:grid-cols-2 gap-16 items-center">
             <div className="space-y-8">
               <div className="space-y-4">
-                <h2 className="text-4xl font-bold text-gray-900">О компании TalentPro</h2>
+                <h2 className="text-4xl font-bold text-gray-900">О компании ТАКТ</h2>
                 <p className="text-xl text-gray-600 leading-relaxed">
                   Мы — ведущее кадровое агентство с более чем 10-летним опытом работы на рынке. 
                   Наша миссия — создавать идеальные соответствия между талантливыми людьми и инновационными компаниями.
