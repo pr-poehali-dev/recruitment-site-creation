@@ -14,7 +14,7 @@ export default function Index() {
           <nav className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <Icon name="Users" size={32} className="text-blue-600" />
-              <span className="text-2xl font-bold text-gray-900">TalentPro</span>
+              <span className="text-2xl font-bold text-gray-900">ТАКТ</span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
               <a href="#home" className="text-gray-700 hover:text-blue-600 transition-colors">Главная</a>
